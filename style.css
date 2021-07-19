@@ -1,0 +1,102 @@
+body, p{
+color: #6b747b;
+}
+    header{
+    background: linear-gradient(rgba(197, 234, 249, 1), rgba(255, 255, 255, 1));
+    padding-top:10%;
+}
+.navbg{
+    background-color: #f1f9fc;
+}
+.nav-setting{
+    font-size:15px;
+    font-weight:500;
+    color:#6b747b;
+}
+.collapse.navbar-collapse.headersection ul li a.nav-link.active{
+color:#ff6e84;
+}
+.collapse.navbar-collapse.headersection ul li a:hover{
+    color:#ff6e84;
+}
+.navbar-icons .font{
+    color: #594cda;
+}
+div#navbarSupportedContent {
+    margin-right: 7%;
+}
+.team-para{
+    margin-top:10%;
+}
+.buttons {
+    margin-top: 6%;
+}
+.buttons .btn {
+    width: 35%;
+    height: 55px;
+    background-color: #594cda;
+    color: #fff;
+    border-radius: 26px;
+    font-weight:bold;
+    font-size:16px;
+}
+.btn.btn2{
+    background-color: #eb427e;
+}
+.buttons .btn:hover{
+    background-color:#fff;
+    border:1px solid #594cda;
+    color:#594cda;
+}
+.btn.btn2:hover{
+    background-color:#fff;
+    border:1px solid #eb427e;
+    color: #eb427e;
+}
+.btn .fa {
+    padding: 3%;
+}
+.middle-para{
+    text-align:center;
+    margin:0 auto;
+    margin-top:6%;
+}
+.middle-para p{
+    font-size:33px;
+    color: #252c38;
+}
+img.card-img-center {
+    width: 70px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 12%;
+}
+section.box{
+    margin-top:8%;
+}
+.card.box {
+    background-color: #f1f9fc;
+    border: none;
+    height: 254px;
+    width: 98%;
+}
+.row.row2 {
+    margin-top: 2%;
+}
+.row.imgpara1, .imgpara2, .row.imgpara3 {
+    margin-top: 10%;
+}
+.imgpara1 p, .imgpara2 p, .imgpara3 p{
+    margin-top:6%;
+}
+.row.imgpara1 h2, .imgpara2 h2, .row.imgpara3 h2{
+    font-weight:bold;
+    font-size: 37px;
+    margin-top:10%;
+}
+.row .fig{
+    margin-top:10%;
+}
+.imgpara2 {
+    padding-left: 12%;
+}
