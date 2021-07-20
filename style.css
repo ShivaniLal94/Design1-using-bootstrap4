@@ -1,4 +1,4 @@
-body, p{
+p{
 color: #6b747b;
 }
     header{
@@ -100,3 +100,76 @@ section.box{
 .imgpara2 {
     padding-left: 12%;
 }
+.listfont{
+    font-size:60px;
+    padding:4%;
+}
+.numbers{
+    margin-top:4%;
+}
+.imgsetting {
+    margin-top: -50%;
+}
+.imgsetting p, .imgsetting h2{
+    color:#fff;
+}
+.imgsetting p{
+    margin: 2% 16%;
+    font-size: 19px;
+}
+.bgimg img{
+    background: linear-gradient(rgb(50 60 70), rgba(50, 60, 70, 0.9));
+}
+.pricing-card{
+    height: 437px;
+    width: 380px;
+    padding: 2%;
+    font-size: 17px;
+    margin-top: -100%;
+    border-radius: 2%;
+    }
+    .buttons.btn-pricing {
+        margin-top: 3%;
+    }
+    .pricing-card h5{
+        color:#eb427e;
+    }
+    span.dollar {
+        font-size: 27px;
+        vertical-align: 34%;
+}
+    .cardsub {
+        font-size: 61px;
+    }
+    .cardtxt {
+        text-align: left;
+        padding-left: 9%;
+    }
+    section.team-mgmnt{
+        margin-top:10%;
+    }
+    .conclusion-para{
+        margin-top:14%;
+        padding-left: 7%;
+    }
+    .footer-para h4 {
+        font-size: 29px;
+        margin: 15% 13%;
+    }
+    footer{
+        background: linear-gradient(rgba(255, 255, 255, 1), rgba(197, 234, 249, 1));
+    }
+    .socialfig {
+        background-color: #fff;
+        border-radius: 100%;
+        padding: 16px;
+        font-size: 28px;
+        color:black;
+    }
+    .socialfig:hover{
+        background-color: black;
+        color:#fff;
+    }
+    .social-icons {
+        margin-top: -11%;
+    }
